@@ -1,0 +1,16 @@
+.signup{
+  text-align: center;
+  background-color: aqua;
+  height: 350px;
+  width: 300px;
+  margin-left:40%;
+  box-shadow: 0px 0px 15px rgb(216, 22, 55);
+}
+.submit{
+  color:white;
+  background-color: blue;
+  border:none;
+  border-radius: 4%;
+  width:80px;
+  height:5vh;
+}
